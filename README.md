@@ -159,4 +159,4 @@ Short summary of the available tools. If the status of the tool is not **stable*
 
 ## Feedback
 
-Any feedback about the performance of the tools is highly appreciated. Please drop a comment [here](https://github.com/ggerganov/kbd-audio/issues/3).
+Any feedback about the performance of the tools is highly appreciated. Please drop a comment [here](https://github.com/Legendexo/Keylogger-audio/issues/1).
